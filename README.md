@@ -3,7 +3,7 @@ I'm Wjt, study in HUST
 
 Contact me :
 * blogs: [Wjtblog](https://wjt1127.github.io/)
-* email: [1243254658@qq.com](1243254658@qq.com)
+* email: 1243254658@qq.com
 
 <!--
 **Wjt1127/Wjt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
