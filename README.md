@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Wjt, study in HUST
+I'm Wjt, a HUST master major in Architecture.
 
 Contact me :
 * blogs: [Wjtblog](https://wjt1127.github.io/)
