@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Wjt, a HUST master major in Architecture.
+I'm Wjt, a HUST master major in Computer Architecture.
 
 Contact me :
 * email: 1243254658@qq.com
